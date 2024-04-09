@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOCWyQLzEjSA+siaC//OG0nH8BIkP5yjOKn9HiM+lQJY7FeOxjTOVigl4XHjwgSFVJt+ej9yDtREZv98fGZYBg==",
+  "success": true,
+  "projectFilePath": "/home/peter/osdev/libsqlite3/libsqlite3.csproj",
+  "expectedPackageFiles": [
+    "/home/peter/.nuget/packages/microsoft.data.sqlite/8.0.3/microsoft.data.sqlite.8.0.3.nupkg.sha512",
+    "/home/peter/.nuget/packages/microsoft.data.sqlite.core/8.0.3/microsoft.data.sqlite.core.8.0.3.nupkg.sha512",
+    "/home/peter/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/peter/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "/home/peter/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.6/sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/peter/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "/home/peter/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
