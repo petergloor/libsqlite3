@@ -1,0 +1,4 @@
+# dont distribute build dirs
+.mono
+bin
+obj
