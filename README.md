@@ -2,7 +2,7 @@
 
 The only purpose of this simple app is to generate a Dotnet library for SQLite 3 that can be used in OpenSimulator.
 
-Requires dotnet 8.0 (minimal requirement for OpenSimulator).
+__Requires dotnet 8.0__ (minimal requirement for OpenSimulator).
 
 **1: Add Microsoft.Data.Sqlite package**
 
@@ -13,13 +13,13 @@ Requires dotnet 8.0 (minimal requirement for OpenSimulator).
     dotnet build
 
 
-**3: Copy the library from bin/Debug/net6.0/runtimes/<architecture>/native/libe_sqlite3.so.**
+**3: Copy the library from bin/Debug/net8.0/runtimes/<architecture>/native/libe_sqlite3.so.**
 
 In the copy target use OpenSimulator naming conventions. 
 
 _Example for arm64 on Raspberry Pi with RaspberryPi OS:_
     
-    cp bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so \
+    cp bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so \
         ../opensim/bin/lib64/libsqlite3-arm64.so
 
 
