@@ -2,6 +2,8 @@
 
 The only purpose of this simple app is to generate a Dotnet library for SQLite 3 that can be used in OpenSimulator.
 
+Requires dotnet 8.0 (minimal requirement for OpenSimulator).
+
 **1: Add Microsoft.Data.Sqlite package**
 
     dotnet add package Microsoft.Data.Sqlite
